@@ -2,10 +2,10 @@ cask "noot" do
   version "1.0.0"
   sha256 "REPLACE_WITH_ACTUAL_SHA256"
 
-  url "https://github.com/yourusername/noot/releases/download/v#{version}/Noot-#{version}.dmg"
+  url "https://github.com/vagrawal787/noot/releases/download/v#{version}/Noot-#{version}.dmg"
   name "Noot"
   desc "Local-first developer note-taking app"
-  homepage "https://github.com/yourusername/noot"
+  homepage "https://github.com/vagrawal787/noot"
 
   depends_on macos: ">= :ventura"
 

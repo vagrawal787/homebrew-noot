@@ -1,11 +1,11 @@
 # Homebrew Tap for Noot
 
-This is the official Homebrew tap for [Noot](https://github.com/yourusername/noot).
+This is the official Homebrew tap for [Noot](https://github.com/vagrawal787/noot).
 
 ## Installation
 
 ```bash
-brew tap yourusername/noot
+brew tap vagrawal787/noot
 brew install --cask noot
 ```
 

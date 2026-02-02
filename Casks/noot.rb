@@ -1,6 +1,6 @@
 cask "noot" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "c8408faf5512d931ccaa79d535a8689d6f53cca5845f21cedab651ed83a3632e"
 
   url "https://github.com/vagrawal787/noot/releases/download/v#{version}/Noot-#{version}.dmg"
   name "Noot"
